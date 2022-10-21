@@ -4,3 +4,5 @@ This is the code for **Advent of Code day1 2020** event, please only use this to
 Freely use the code, I tried to make the code as minimal as possible and tried many diffferent ways to solve this problem. It was super fun solving the first day and was pretty easy tbh and I suggest many others to try this!
 
 **Thank you!** 😊
+
+quick FYI **AOC** means **Advent of Code** if you didn't know :)
