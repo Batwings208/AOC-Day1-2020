@@ -1,5 +1,5 @@
 #part one
-data =  open("/Users/godseye/Coding/PythonProjects/sideprojects/AdventOfCode/2020/Day1_files")
+data =  open("path/Day1_files")
 result = data.readlines()
 lines = [int(item) for item in result]
 
